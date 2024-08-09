@@ -2,3 +2,9 @@
 print('Hello World!')
 print('Vasco da Gama, apenas.')
 print(2 + 4)
+
+nome = "Renan"
+sobrenome = "Magalhães"
+
+# Concatenando strings
+print(nome + " " + sobrenome)
